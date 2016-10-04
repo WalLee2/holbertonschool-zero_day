@@ -1,1 +1,1 @@
-# holbertonschool-zero_day
+The project is about finding out what a virtual machine is and learning about Vagrant.
